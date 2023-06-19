@@ -398,7 +398,7 @@ width: calc((100% / 2) - 2rem);
 
   @media only screen and (max-width: 480px) {
     .header-logo {
-      flex-basis: 79%;
+      flex-basis: 70%;
     }
   }
 
