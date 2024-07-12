@@ -1,0 +1,1 @@
+﻿These are the script for the JQuery project
